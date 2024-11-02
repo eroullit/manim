@@ -1,0 +1,7 @@
+{
+    "name": "Manim Development Container",
+    "dockerFile": "../docker/Dockerfile",
+    "extensions": [
+        "ms-python.python"
+    ]
+}
